@@ -1,0 +1,12 @@
+Admin :
+	Username : febrian
+	Password : febrian
+
+Kasir : 
+	Username : reza
+	Password : reza
+
+owner : 
+	Username : sandi
+	Password : sandi
+
